@@ -1,3 +1,3 @@
 # My-Portfolio
 
-check it here: https://siddharthsingh.netlify.app
+check it here: https://siddharth189.github.io/portfolio/
